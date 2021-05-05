@@ -16,7 +16,7 @@ Thematic : back office
 |indice|Technical reference**|
 |bib|Don't know and don't care :-D|
 |cote|Physical reference on the support**|
-|cat_1|Audience: Adult(A), Child(E) or Baby(Bebe)|
+|cat_1|Audience: Adult(A), Child(E) or Baby(BB)|
 |cat_2|Type of support, always DVD|
 
 ****A single movie can appear several times, once per year of its rental***
