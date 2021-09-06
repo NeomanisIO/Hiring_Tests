@@ -8,7 +8,7 @@ Realize a web interface allowing access to several functionalities. For that, yo
 
 ## Constraint
 
-- Html/CSS/Javascript
+- Html/CSS/Typescript
 - Framework: as you like :-)
 - Use token authentification
 - Choose at least 4 functionalities in the *"API REFERENCE"* section 

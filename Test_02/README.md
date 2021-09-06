@@ -55,7 +55,7 @@ You have to build an API that will provide following functionalities:
 
 ## Constraint:
 
-- Javascript
+- Typescript
 - Framework: as you like :-)
 - Be able to justify every choice you've made
 
